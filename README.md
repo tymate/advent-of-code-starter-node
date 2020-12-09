@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tymate.com">
-    <img alt="Tymate" src="https://studio.tymate.com/logo-long.svg" />
+    <img alt="Tymate" src="https://www.datocms-assets.com/33962/1605711713-logo-tymate-square.png" />
   </a>
 </p>
 
