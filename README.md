@@ -44,7 +44,7 @@ Take a look at the example folder. Spoiler alert: it contains a solution to the 
 
 ## 💪 Used on…
 
-- [Uptip/advent-of-code-2020]
+- [Uptip/advent-of-code-2020](https://github.com/Uptip/advent-of-code-2020)
 
 ## ✨ Contributors
 
