@@ -1,0 +1,14 @@
+{
+  "projectName": "advent-of-code-starter-node",
+  "projectOwner": "tymate",
+  "repoType": "github",
+  "repoHost": "tymate/advent-of-code-starter-node",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "eslint",
+  "contributors": [],
+  "contributorsPerLine": 7
+}
