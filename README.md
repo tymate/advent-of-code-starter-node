@@ -38,6 +38,10 @@ DAY=01 yarn start
 
 4️⃣ Enjoy! 🎄
 
+## 🧐 Unsure how it works?
+
+Take a look at the example folder. Spoiler alert: it contains a solution to the first day of the 2020 AoC.
+
 ## ✨ Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

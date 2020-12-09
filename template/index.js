@@ -6,6 +6,8 @@ export const partOne = input => {
   return input;
 };
 
-export const partTwo = input => {};
+export const partTwo = input => {
+  return input;
+};
 
 run({ pathToInput: '{{DAY}}/input.txt', partOne, partTwo, formatInput });
