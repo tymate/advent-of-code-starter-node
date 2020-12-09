@@ -9,7 +9,9 @@
 Template to bootstrap your own advent of code calendar, using Node & Babel.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 🌱 Installing
@@ -45,8 +47,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/SoniaSim"><img src="https://avatars2.githubusercontent.com/u/67098778?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sonia Si Moussi</b></sub></a><br /><a href="https://github.com/tymate/advent-of-code-starter-node/issues?q=author%3ASoniaSim" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/Uptip"><img src="https://avatars2.githubusercontent.com/u/1025157?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Henri Michel</b></sub></a><br /><a href="https://github.com/tymate/advent-of-code-starter-node/commits?author=Uptip" title="Code">💻</a> <a href="https://github.com/tymate/advent-of-code-starter-node/commits?author=Uptip" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/SoniaSim"><img src="https://avatars2.githubusercontent.com/u/67098778?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sonia Si Moussi</b></sub></a><br /><a href="https://github.com/tymate/advent-of-code-starter-node/issues?q=author%3ASoniaSim" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
