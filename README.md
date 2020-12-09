@@ -25,7 +25,7 @@ yarn
 1️⃣ Generate day files
 
 ```
-DAY=01 yarn start
+DAY=01 yarn scaffold
 ```
 
 2️⃣ Put puzzle input in input.txt
