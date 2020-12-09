@@ -2,13 +2,24 @@
   "projectName": "advent-of-code-starter-node",
   "projectOwner": "tymate",
   "repoType": "github",
-  "repoHost": "tymate/advent-of-code-starter-node",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
   "commit": true,
   "commitConvention": "eslint",
-  "contributors": [],
-  "contributorsPerLine": 7
+  "contributors": [
+    {
+      "login": "SoniaSim",
+      "name": "Sonia Si Moussi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/67098778?v=4",
+      "profile": "https://github.com/SoniaSim",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
