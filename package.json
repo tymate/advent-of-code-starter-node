@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-starter-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.7",
+    "babel-jest": "^26.6.3",
+    "copyfiles": "^2.4.1",
+    "husky": "^5.0.4",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6",
+    "replace-in-file": "^6.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest test -- --coverage",
+    "test:badges": "yarn test:coverage && yarn update-badge",
+    "start": "nodemon src/**/* --exec babel-node src/${DAY:-01}/index.js",
+    "scaffold": "copyfiles -a -f template/* src/${DAY:-01} && replace-in-file '{{DAY}}' $(echo $DAY) src/${DAY:-01}/index.js"
+  }
+}
