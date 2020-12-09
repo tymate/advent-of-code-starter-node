@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tymate.com">
-    <img alt="Tymate" src="https://www.datocms-assets.com/33962/1605711713-logo-tymate-square.png" />
+    <img alt="Tymate" src="https://www.datocms-assets.com/33962/1605711713-logo-tymate-square.png" width="200" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ DAY=01 yarn start
 
 ## 🧐 Unsure how it works?
 
-Take a look at the example folder. Spoiler alert: it contains a solution to the first day of the 2020 AoC.
+Take a look at the [example](example) folder. Spoiler alert: it contains a solution to the first day of the 2020 AoC.
 
 ## 💪 Used on…
 
